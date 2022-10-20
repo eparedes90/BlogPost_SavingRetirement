@@ -1,4 +1,4 @@
-# BlogPosts
+# BlogPost - Project 1 - Udacity Nanodegree program
 Data Scientist Blog Post
 
 ## Project Motivation
