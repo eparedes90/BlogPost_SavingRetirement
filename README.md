@@ -11,7 +11,10 @@ It is needed to have Python, Jupyter Notebook and necessary libraries to run the
 
 ## File Description
 
-* You will find a Jupyter Notebook and the data used (in stata format) for the BlogPost in Medium Web Site. 
+* 'Project Blog.ipynb' is Jupyter Notebook file
+* 'Base de datos.dta' is the data used (in stata format)
+* 'Diccionario de datos.pdf' is given by the data source (SBS of Peru) where there is specified the questions and the options of the survey.
 * The link of this blog post is https://medium.com/@eparedes90/seven-findings-that-will-help-you-understand-saving-for-retirement-in-peru-1862b7c4e57
+
 
 Thanks for visiting!
